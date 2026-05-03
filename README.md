@@ -48,4 +48,4 @@ Architected a multi-year product roadmap to integrate an Aadhaar-linked biometri
 Led consumer-facing payment features (UPI, NEFT, IMPS) through rigorous 2-week Scrum sprints. Sustained a 10-month release cadence over 3.5 years without a single NPCI or RBI violation, proving Agile velocity and strict governance can coexist.
 
 ---
-📫 **Let's Connect:** [Your LinkedIn URL] | [Your Email]
+📫 **Let's Connect:** [(https://www.linkedin.com/in/anirudhnts/)] | [anirudhts@outlook.com]
