@@ -32,13 +32,13 @@ I am a Senior Product Manager specializing in high-stakes, regulated FinTech env
 
 *(Click into each repository for a detailed breakdown of architecture, strategy, and business outcomes)*
 
-#### 1. [HNI Portfolio Growth Strategy: 145% YoY Growth & 50% Cross-Sell](./hni-portfolio-growth)
+#### 1. [HNI Portfolio Growth Strategy: 145% YoY Growth & 50% Cross-Sell](.pmatsresources/hni-portfolio-growth)
 Designed and executed a proprietary data-science-driven growth strategy for Priority Banking. Leveraged TM1, Tableau, and CRM diagnostics to build cross-sell forecasting engines, securing executive investment and growing the portfolio to INR 750 Cr AUM.
 
-#### 2. [Real-Time FP&A & BI Dashboard Suite: 400hrs Saved & 70% Faster Risk Response](./realtime-fpa-dashboard)
+#### 2. [Real-Time FP&A & BI Dashboard Suite: 400hrs Saved & 70% Faster Risk Response](.pmatsresources/realtime-fpa-dashboard)
 Engineered an enterprise BI suite for 8+ C-suite leaders. Integrated SQL pipelines from Infosys Finacle into Tableau and TM1, transforming executive reporting from reactive spreadsheets to predictive, real-time portfolio risk indicators.
 
-#### 3. [Enterprise CRM Digital Transformation: Unifying 7 Verticals](./enterprise-crm-transformation)
+#### 3. [Enterprise CRM Digital Transformation: Unifying 7 Verticals](.pmatsresources/enterprise-crm-transformation)
 Spearheaded the end-to-end build and vendor selection for Federal Bank's enterprise CRM on the Oracle CX AI platform. Phased launches across Retail, Commercial, and Trade Finance eliminated pipeline leakage and accelerated lead response for 120+ Relationship Managers.
 
 #### 4. [Mobile KYC & Biometric Onboarding: 2M+ Profiles Processed](./mobile-kyc-biometrics)
