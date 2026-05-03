@@ -32,7 +32,7 @@ I am a Senior Product Manager specializing in high-stakes, regulated FinTech env
 
 *(Click into each repository for a detailed breakdown of architecture, strategy, and business outcomes)*
 
-#### 1. [HNI Portfolio Growth Strategy: 145% YoY Growth & 50% Cross-Sell](./hni-portfolio-growth-strategy)
+#### 1. [HNI Portfolio Growth Strategy: 145% YoY Growth & 50% Cross-Sell](./hni-portfolio-growth)
 Designed and executed a proprietary data-science-driven growth strategy for Priority Banking. Leveraged TM1, Tableau, and CRM diagnostics to build cross-sell forecasting engines, securing executive investment and growing the portfolio to INR 750 Cr AUM.
 
 #### 2. [Real-Time FP&A & BI Dashboard Suite: 400hrs Saved & 70% Faster Risk Response](./realtime-fpa-dashboard)
